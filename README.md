@@ -17,11 +17,17 @@ Your API must provides these end points:
 * Python
 * Flask, flask-restplus
 * Swagger (API specification tools); any other technologies required must be installed in the install dependencies task.
----
+
+
 ## [Github link](https://github.com/arashsari/paranuara)
----
+
+
 ## Install Dependencies
-    `pip install -r requirements.txt`
----
+    ```python
+    pip install -r requirements.txt
+    ```
+
 ## Run:
-    `python api.py`
+    ```python
+    python api.py
+    ```
