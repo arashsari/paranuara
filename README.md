@@ -23,11 +23,11 @@ Your API must provides these end points:
 
 
 ## Install Dependencies
-    ```python
+
     pip install -r requirements.txt
-    ```
+
 
 ## Run:
-    ```python
+
     python api.py
-    ```
+    
