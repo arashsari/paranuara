@@ -12,16 +12,16 @@ Your API must provides these end points:
 - Given 2 people, provide their information (Name, Age, Address, phone) and the list of their friends in common which have brown eyes and are still alive.
 - Given 1 people, provide a list of fruits and vegetables they like. This endpoint must respect this interface for the output: `{"username": "Ahi", "age": "30", "fruits": ["banana", "apple"], "vegetables": ["beetroot", "lettuce"]}`
 
-## Delivery
+---
 ### Technologies:
-#### Python
-#### Flask, flask-restplus
-#### Swagger (API specification tools); any other technologies required must be installed in the install dependencies task.
-
-## Github
-
+..* Python
+..* Flask, flask-restplus
+..* Swagger (API specification tools); any other technologies required must be installed in the install dependencies task.
+---
+## [Github link](https://github.com/arashsari/paranuara)
+---
 ## Install Dependencies
-    pip install -r requirements.txt
-
+    `pip install -r requirements.txt`
+---
 ## Run:
-    python api.py
+    `python api.py`
